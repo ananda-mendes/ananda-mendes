@@ -21,6 +21,6 @@ In addition to graduating and granting an extension project, I also dedicate my 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananda-mendes&hide_title=true&langs_count=6&text_color=E5DADA&bg_color=091011&layout=compact)
 
 ### 📫 How to reach me: 
-Visit my Linkedin profile: https://www.linkedin.com/in/ananda-mendes-26535b21b/
+Visit my Linkedin profile: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ananda-mendes-26535b21b/)](https://www.linkedin.com/in/ananda-mendes-26535b21b/)
 
 
