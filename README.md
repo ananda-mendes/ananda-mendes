@@ -16,11 +16,11 @@ Atualmente, estou dedicando-me à elaboração da minha monografia, cujo tema é
 
 Tenho interesse em diversas áreas da computação, mas três delas chamam particularmente minha atenção:
 
-- **Ciência de Dados**: Fascina-me a capacidade de extrair conhecimento e insights valiosos a partir de grandes volumes de dados. Estou constantemente aprendendo novas técnicas de análise de dados e trabalhando em projetos que envolvem aprendizado de máquina e visualização de dados. 
+- **Ciência de Dados**: Sou fascinada a capacidade de extrair conhecimento e insights valiosos a partir de grandes volumes de dados. Estou constantemente aprendendo novas técnicas de análise de dados e trabalhando em projetos que envolvem aprendizado de máquina e visualização de dados. 
 
-- **Desenvolvimento Web e Mobile**: Sou apaixonado por desenvolvimento de aplicações web e mobile, e busco me aprimorar continuamente nesse campo. Tenho experiência com diversas tecnologias, como HTML, CSS, JavaScript, frameworks front-end e back-end, e estou sempre em busca de aprender novas ferramentas e abordagens para criar aplicativos eficientes e intuitivos.
+- **Desenvolvimento Web e Mobile**: Também gosto da área de desenvolvimento de aplicações web e mobile, e busco me aprimorar continuamente nesse campo. Tenho experiência com diversas tecnologias, como HTML, CSS, JavaScript, frameworks front-end e back-end, e estou sempre em busca de aprender novas ferramentas e abordagens para criar aplicativos eficientes e intuitivos.
 
-- **Inteligência Artificial**: Sou fascinada pelo campo da Inteligência Artificial e estou constantemente buscando aprender e explorar novas técnicas nessa área. Desde algoritmos de aprendizado de máquina até redes neurais e processamento de linguagem natural, estou sempre empolgado em aplicar essas tecnologias para resolver problemas do mundo real.
+- **Inteligência Artificial**: Estou constantemente buscando aprender e explorar novas técnicas nessa área. Desde algoritmos de aprendizado de máquina até redes neurais e processamento de linguagem natural, estou sempre empolgado em aplicar essas tecnologias para resolver problemas do mundo real.
 
 #### O que você encontrará neste repositório
 
